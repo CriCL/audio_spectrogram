@@ -8,3 +8,4 @@
 ### Usage
 > python liveSpectrogram.py
 
+![alt text](https://github.com/CriCL/audio_spectrogram/blob/master/spectrogram.png)
