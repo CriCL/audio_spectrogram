@@ -3,11 +3,11 @@
 ## Installation
 > uses Python 3+
 
-> shows a live spectrogram visualization captured from microphone
+> Shows a live spectrogram streaming using a microphone
 ### Notes
 If you are on a mac, you may first install portaudio
 > brew install portaudio
 ### Usage
-> python liveSpectrogram.py
+> python stream.py
 
 ![alt text](https://github.com/CriCL/audio_spectrogram/blob/master/spectrogram.png)
